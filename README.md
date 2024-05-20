@@ -4,14 +4,10 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI3Ym9uaGpwam9wY2F3M3JzN3poN2o0Z3d2cHFyeWMwbWM2NW1nNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nt869TUurakJznLxul/giphy.gif" align='right' width="400" height="370">
 
 ## About me
-
-I'm **Behina Bahramsari**.
-Graduate [@BrainStation](https://brainstation.io/online/software-engineering-bootcamp) | BSc Psychology
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/behinabahramsari/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@behinabahramsari@gmail.com) [![](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/BehinaBhr) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/be_bhr/)
+
 My software development journey 👩🏻‍💻 began while navigating a new chapter in my life in Canada 🇨🇦 from Iran 🇮🇷.
 My passion for problem-solving 🧩 and helping others ⛑️ ties my career path together. Whether it's deploying rescue robots 🤖, contributing to mental health research 🧠, or developing the Procket 🚀, a productivity planning app for procrastinators. I aspire to blend psychology and technology in meaningful ways💡.
-Procket is dear to my heart as it addresses putting things off, the issue all might deal with daily. You're invited to join me for my capstone project [presentation](https://youtu.be/Dn2GVzKBy1E?si=G5Tr5oPHLKvbrxz9) at demo day 🎬 and take a closer look at my [code](https://github.com/BehinaBhr/behina-bahramsari-procket) 🔍.
 
 ```javascript
 const behina = {
@@ -84,6 +80,8 @@ I'm exhilarated about what's ahead. If you're seeking a dedicated and passionate
 ### Procket
 
 [Presentation](https://www.youtube.com/watch?v=Dn2GVzKBy1E)
+
+[code](https://github.com/BehinaBhr/behina-bahramsari-procket)
 
 - Developed a responsive single-page application productivity planning tool for procrastinators in just 3 weeks, leveraging strong UI/UX design skills and modern tech stacks like React.js, Node.js, Express.js, Knex.js, and MySQL.
 - Integrated gamified visual rewards, such as rocket launches and collections, upon task completion, enhancing user experience and boosting engagement and motivation.
