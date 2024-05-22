@@ -1,13 +1,20 @@
 # FullStack Software Developer
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/behinabahramsari/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@behinabahramsari@gmail.com) [![](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/BehinaBhr) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/be_bhr/)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI3Ym9uaGpwam9wY2F3M3JzN3poN2o0Z3d2cHFyeWMwbWM2NW1nNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nt869TUurakJznLxul/giphy.gif" align='right' width="400" height="370">
 
 ## About me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/behinabahramsari/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@behinabahramsari@gmail.com) [![](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/BehinaBhr) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/be_bhr/)
+Hi there!
 
-My software development journey 👩🏻‍💻 began while navigating a new chapter in my life in Canada 🇨🇦 from Iran 🇮🇷.
-My passion for problem-solving 🧩 and helping others ⛑️ ties my career path together. Whether it's deploying rescue robots 🤖, contributing to mental health research 🧠, or developing the Procket 🚀, a productivity planning app for procrastinators. I aspire to blend psychology and technology in meaningful ways💡.
+I was born with a name meaning 'the best' in Persian 🇮🇷, yet my path has been one of conquering perfectionism, embracing continuous growth, and cherishing lifelong learning.
+
+My career exploration across robotics, psychology, human resources, customer service, and sales has equipped me with a unique blend of analytical thinking, leadership, and interpersonal communication skills. These transferable skillsets, honed through academic, fast-paced customer-facing, and collaborative teamwork settings, cultivated/prepared me to effectively understand user needs and translate them into successful technical solutions.
+
+From deploying rescue robots 🤖 to contributing to mental health research 🧠, and even developing the Procket 🚀, a productivity planning app for procrastinators, my passion for problem-solving 🧩 and helping others ⛑️ has been the driving force behind my career. Leveraging my skills in the tech world driven by aspiring to blend psychology and tech in meaningful ways💡.
+
+Fueled by my drive for using technology to make a positive impact, I embarked on a self-directed journey into software development. Through a combination of online resources, immersive individual projects, collaborative teamwork projects, and hackathons at a bootcamp, I developed my programming skills and solidified my understanding of core coding practices, design principles, and development processes. This hands-on learning experience equipped me to write clean, efficient code and deliver functional projects within tight deadlines, making me a valuable asset to any software development team.
+
+All these experiences keep me eager to learn and grow by tackling new challenges, that bring excitement and meaning to my life, keeping me vibrant and alive.
 
 ```javascript
 const behina = {
@@ -19,7 +26,7 @@ const behina = {
 
 ### 💼 Open to work :
 
-I'm exhilarated about what's ahead. If you're seeking a dedicated and passionate software developer in **British Columbia, Canada** or **Remotely** look no further—I'm your go-to candidate! Let's connect to make an impact.
+I'm exhilarated about what's ahead. If you're seeking a dedicated and passionate software developer in **British Columbia, Canada 🇨🇦** or **Remotely 🌎** look no further—I'm your go-to candidate! Let's connect to make an impact.
 
 ## 🛠️ Skills :
 
