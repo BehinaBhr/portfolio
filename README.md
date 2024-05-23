@@ -136,6 +136,6 @@ Feel free to reach out to me; I'd love to hear from you and grow alongside you.
 
 ### Guess That Pokemon
 ![Demo](/assets/pokemon.png)
-- Conceptualized and co-developed "Guess That Pokemon," a web-based trivia game about to within a 24-hour Hackathon alongside 3 teammates employeing agile development methodologies to manage project flow, resolve bugs efficiently using VsCode Live Share, and ensure a cohesive final product.
+- Conceptualized and co-developed a web-based trivia game about to within a 24-hour Hackathon alongside 3 teammates employeing agile development methodologies to manage project flow, resolve bugs efficiently using VsCode Live Share, and ensure a cohesive final product.
 - Designed a visually appealing user interface using modern HTML and SCSS frameworks to facilitate user identification of Pokemon based on visual clues or partial descriptions, fostering a fun and engaging competitive environment.
 - Spearheaded the integration of an external Pokemon API, establishing a robust data retrieval system to dynamically generate game questions, track player progressand ensure a vast pool of Pokémon for players to encounter, enhancing the game's replayability and long-term appeal.
