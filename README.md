@@ -45,9 +45,9 @@ Feel free to reach out to me; I'd love to hear from you and grow alongside you.
 
 ## 🎓 Education
 
-- [GradDip](https://drive.google.com/file/d/1fqzRC7oBGoGvTlqTCSbTU84DUgbZ9m4b/view?usp=sharing), Computer Software Engineering | BrainStation (_Jan 2024 - Apr 2024_)
-- [BSc](https://drive.google.com/file/d/1az-R3H1IA4Lc4EIm0DZKJZszNQFECUEc/view?usp=sharing), Psychology| Bu-Ali Sina Universit (_Sep 2017 - Apr 2021_)
-- [Dip](https://drive.google.com/file/d/16zyLz2RPhp_ohtxOUpEYtNFw0OWqqNNo/view?usp=sharing), Experimental Science | [National Organization for Development of Exceptional Talents] (_Sep 2012 - Jan 2017_)
+- [GradDip](https://drive.google.com/file/d/1fqzRC7oBGoGvTlqTCSbTU84DUgbZ9m4b/view?usp=sharing), Software Engineering @ BrainStation (_Jan 2024 - Apr 2024_)
+- [BSc](https://drive.google.com/file/d/1az-R3H1IA4Lc4EIm0DZKJZszNQFECUEc/view?usp=sharing), Psychology @ Bu-Ali Sina University (_Sep 2017 - Apr 2021_)
+- [Dip](https://drive.google.com/file/d/16zyLz2RPhp_ohtxOUpEYtNFw0OWqqNNo/view?usp=sharing), Experimental Science @ National Organization for Development of Exceptional Talents (_Sep 2012 - Jan 2017_)
 
 ## 📜 Certificate
 
