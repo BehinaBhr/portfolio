@@ -17,8 +17,8 @@ Fueled by my drive for using technology to make a positive impact 🏁, I embark
 ```javascript
 const behina = {
  pronouns: "she" | "her",
- skills: [Quick Learner, Diligent, Detail-Oriented, Orgenized, Strategic Thinker,Synergistic, Problem-Solver, Empathetic],
- hobbies: [Singing, Guitar Strumming, Puzzle-Solving, Competitive Sports, Exploring Places & Flavors]
+ features: [Quick Learner, Diligent, Detail-Oriented, Organized, Strategic Thinker, Synergistic, Problem-Solver, Empathetic],
+ hobbies: [Singing, Guitar Strumming, Puzzle-Solving, Competitive Sports, Exploring Places & Flavors, Devouring Stories - Books, Movies]
 }
 ```
 ### 🤝🏼 Open to work 
