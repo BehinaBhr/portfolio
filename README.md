@@ -37,7 +37,7 @@ I'm eager to discuss how my qualifications can contribute to your project's succ
 **Learning new things gives my life meaning**, whether through **feedback from others** or **self-studying**.
 Feel free to reach out to me; I'd love to hear from you and grow alongside you.
 
-
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23E33332?style=flat-square&logo=testing-library&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
