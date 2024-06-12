@@ -51,6 +51,7 @@ Feel free to reach out to me; I'd love to hear from you and grow alongside you.
 
 ## 📜 Certificate
 
+- Google AI Essentials - Coursera
 - 100 Days of Code: The Complete Python Pro Bootcamp - Udemy
 - Crash Course on Python - Grow with Google on Coursera
 - Python for Non-Programmers - LinkedIn
