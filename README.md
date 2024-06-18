@@ -1,5 +1,7 @@
 # FullStack Software Developer
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/behinabahramsari/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@behinabahramsari@gmail.com) [![](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/BehinaBhr) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/be_bhr/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/behinabahramsari/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@behinabahramsari@gmail.com) 
+[![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/BehinaBhr) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/be_bhr/)
+[![Portfolio Icon](https://img.icons8.com/ios/20/portfolio.png)](https://github.com/BehinaBhr/portfolio)[![Portfolio Badge](https://img.shields.io/badge/My%20React%20Portfolio-%23ffffff?style=flat-square&logoColor=white)](https://behinabhr.github.io/)
 
 
 ## 🙋🏻‍♀️ About me
