@@ -169,7 +169,7 @@ Feel free to reach out to me; I’d love to **hear your story**, **gather your f
 ## 🗂️ Projects
 
 ### Procket
-[Presentation](https://www.youtube.com/watch?v=Dn2GVzKBy1E)
+[Presentation](https://www.youtube.com/watch?v=Dn2GVzKBy1E)  
 [Demo](https://youtu.be/qGcFhspL_vE)
 
 - Developed a responsive single-page application productivity planning tool for procrastinators in just 3 weeks, leveraging strong UI/UX design skills and modern tech stacks like React.js, Node.js, Express.js, Knex.js, and MySQL.
